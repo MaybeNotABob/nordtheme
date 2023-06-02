@@ -1,3 +1,15 @@
+<p>
+This is a fork of the Nord Neovim theme, which makes it easier to use at night or on old displays. The background has been altered to a dark hue (#0D1117) and the line selection to (#232428). 
+<br>
+<br>
+  <img src="https://github.com/MaybeNotABob/nordtheme/blob/ca1787b07aa3a8e0f13e7226b1f54bf81d57ce0f/nord-dark.png">
+<br>
+<br>
+  Enjoy!
+<br>
+  <b>All credit to the original authors.</b>
+</p>
+
 <p align="center">
   <a href="https://www.nordtheme.com/ports/vim" target="_blank">
     <picture>
